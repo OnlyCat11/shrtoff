@@ -1,8 +1,7 @@
-# Youtube Shorts Remover
+# Shrt Off
+> `shrtoff` is a browser extension that automatically **redirects YouTube Shorts** to the standard video player.
 
-> `yt-shorts-remover` is a browser extension that automatically **redirects YouTube Shorts** to the standard video player.
-
-> `yt-shorts-remover`는 **유튜브 쇼츠 영상**을 일반 영상 플레이어로 자동으로 **전환**하는 브라우저 확장 프로그램입니다.
+> `shrtoff`는 **유튜브 쇼츠 영상**을 일반 영상 플레이어로 자동으로 **전환**하는 브라우저 확장 프로그램입니다.
 
 ## 주요 기능 (Features)
 
@@ -11,7 +10,7 @@
 
 ## 설치 방법 (Installation)
 
-1. [Release](https://github.com/OnlyCat11/yt-shorts-remover/releases/latest)에서 파일을 다운로드 합니다.
+1. [Release](https://github.com/OnlyCat11/shrtoff/releases/latest)에서 파일을 다운로드 합니다.
 2. 다운로드 한 파일을 압축 해제합니다.
 
 <details>
@@ -33,7 +32,7 @@
 ## 프로젝트 구조 (Project Structure)
 
 ```text
-yt-shorts-remover/
+shrtoff/
 ├── LICENSE                # 라이선스 파일 (MIT)
 ├── README.md              # 프로젝트 설명서
 ├── background.js          # SPA 내부 이동 감지 및 리다이렉트 (스크립트 레벨)
